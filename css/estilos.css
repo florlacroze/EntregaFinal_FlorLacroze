@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@300&display=swap');
+
+h1, h2,h3 {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+
+p {
+    font-family: "Roboto", serif;
+    font-weight: 300;
+  }
+
+body{
+    background-color: #fffbec;
+}
+.navbar-brand img { width: 32px;}
+.navbar-toggler span { color: red;}
+
+footer {
+    font-size: 20px;
+    color:#23a664;
+}
+
